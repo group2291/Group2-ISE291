@@ -6,7 +6,7 @@ st.title("ISE 291 Term 242 Section F22 Streamlit Hub")
 st.markdown("Welcome to the class's Streamlit Hub! Use the sidebar to navigate.")
 
 # Absolute path to the 'apps' folder
-APPS_DIR = "Term242Hub/apps"
+APPS_DIR = "ISEG2-T242/Apps"
 
 # Sidebar Navigation
 st.sidebar.title("Navigation")
