@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import importlib.util
+import scipy.stats
 
 st.title("ISE 291 Term 242 Section F22 Streamlit Hub")
 st.markdown("Welcome to the class's Streamlit Hub! Use the sidebar to navigate.")
